@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and gaming.
 - 🌱 I’m currently working as an iOS Developer, with proficient knowledge in Swift programming.
 - 💞️ I’m looking to collaborate on any iOS related open source projects.(Even Python also👍🏻). 
-- I'm currently learning ML techniques in iOS applications.
+- I'm currently learning to integrate core ml models which can be trained on device locally in iOS applications.
 - 📫 You can connect me through mail, my mail id parepalli46@gmail.com
 
 <!---
